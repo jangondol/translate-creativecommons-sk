@@ -209,7 +209,7 @@ for the avoidance of doubt, Section <a href="#s2a1">2(a)(1)</a> grants You the r
 na odstránenie akýchkoľvek pochybností, Ste, podľa <a href="#s2a1">2. časti písm. a. bod 1</a>, oprávnený na extrakciu, reutilizáciu, vyhotovenie rozmnoženiny a Šírenie celého obsahu databázy alebo jej podstatnej časti výlučne na Nekomerčné použitie;
 
 if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section <a href="#s3b">3(b)</a>; and
-ak spojíte celý obsah databázy alebo jej podstatnú časť s databázou, ku ktorej Vy vykonávate osobitné práva, databáza, ku ktorej Vy vykonávate osobitné práva (nie však jej individuálne obsahové zložky) sa stáva Adaptovaným obsahom; a
+ak zaradíte celý obsah databázy alebo jej podstatnú časť do databázy, ku ktorej Vy vykonávate osobitné práva k databáze, potom databáza, ku ktorej Vy vykonávate osobitné práva k databáze (nie však jej individuálne obsahové zložky) sa stáva Adaptovaným obsahom; to platí aj na účely ustanovenia <a href="#s3b">3(b)</a>; a
 
 You must comply with the conditions in Section <a href="#s3a">3(a)</a> if You Share all or a substantial portion of the contents of the database.
 pri Šírení obsahu databázy alebo jej podstatnej časti Ste viazaný podmienkami podľa <a href="#s3a">3(a)</a>3. časti písm. a.</a>
